@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marshal Musem
+title: Marshall Museum 
 description: Pursue your dream
 permalink: /
 order: 1
