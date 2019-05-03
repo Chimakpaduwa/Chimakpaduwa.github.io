@@ -16,22 +16,8 @@ A simple chatbot component to create conversation chats
 
 ## Getting Start
 <a href="http://community.infinite.red/">
-  <img src="https://infiniteredcommunity.herokuapp.com/badge.svg">
+  <"https://i.imgur.com/K4qMdtE.png">
 </a>
 
-```bash
-npm install react-simple-chatbot --save
-```
-
-## Usage
-
-There are several examples on the [website](http://lucasbassetti.com.br/react-simple-chatbot). Here is the first one to get you started:
 
 
-```
-Long, singlez-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
