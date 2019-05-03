@@ -15,7 +15,7 @@ A simple chatbot component to create conversation chats
 <img src="https://cloud.githubusercontent.com/assets/1014326/25716667/2d4bb4c4-30d6-11e7-996e-30c8fb316361.gif" height="400" />
 
 ## Getting Start
-<button class="btn success">Success</button>
+<input type="button" onclick="location.href='http://google.com';" value="Go to Google" />
 
 ```bash
 npm install react-simple-chatbot --save
