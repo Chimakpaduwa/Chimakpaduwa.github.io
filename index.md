@@ -11,7 +11,7 @@ order: 1
   <img src="https://www.marshallfoundation.org/museum/wp-content/uploads/sites/21/2018/11/MarshallFoundation102418_018-1-1-e1541104538731.jpg" alt="Codecov" />
 
 ## Getting Start
-<a href="http://community.infinite.red/">
+<a href="https://chimakpaduwa.github.io/photo%20gallery.html">
   <img src="https://i.imgur.com/K4qMdtE.png">
 </a>
 
