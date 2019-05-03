@@ -29,7 +29,7 @@ There are several examples on the [website](http://lucasbassetti.com.br/react-si
 
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Long, singlez-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
 ```
