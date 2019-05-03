@@ -6,9 +6,9 @@ permalink: /
 order: 1
 ---
 
-# React Simple Chatbot
+# Marshall Museum App
 
-  <img src="https://codecov.io/gh/LucasBassetti/react-simple-chatbot/branch/master/graph/badge.svg" alt="Codecov" />
+  <img src="https://www.marshallfoundation.org/museum/wp-content/uploads/sites/21/2018/11/MarshallFoundation102418_018-1-1-e1541104538731.jpg" alt="Codecov" />
 
 A simple chatbot component to create conversation chats
 
