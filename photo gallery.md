@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Photo Gallery
+title: Auto explanation 
 description: Pursue your dream
 order: 2
 ---
